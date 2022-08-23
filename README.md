@@ -1,5 +1,5 @@
-# CMS DAS 2020: Efficient analysis with ROOT
+# Intriduction to ROOT
 
-This repository contains the lesson about efficient analysis with ROOT for [CMS DAS 2020](https://indico.cern.ch/event/886923/).
+This repository contains the details of the session on introduction to ROOT.
 
-[Follow this link to the website hosted by GitHub pages!](https://cmsdas.github.io/root-short-exercise/)
+[Follow this link to the website hosted by GitHub pages!](https://cmstthgganalysis.github.io/root-short-exercise/)
